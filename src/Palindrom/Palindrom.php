@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Palindrom;
+namespace OGM2\Palindrom;
 
 class Palindrom
 {

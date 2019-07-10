@@ -1,5 +1,5 @@
 {
-    "name": "ogm2/palindrom",
+    "name": "OGM2/Palindrom",
     "description": "Use this package to check whether the given string is a palindrom.",
     "type": "library",
     "authors": [
